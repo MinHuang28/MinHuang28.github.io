@@ -27,6 +27,12 @@ Education
 
 Publications
 ======
+• M. Huang, J. Rudge, & D. W. Rees Jones, (2026). **Channels or waves: controls on the reaction infiltration instabil-
+ity in the upper mantle**. Geophysical Journal International , 245(3), ggag143, DOI: https://doi.org/10.1093/gji/ggag143.\\
+Contribution:
+  * Used finite-element method to study channelization and compaction-dissolution waves in melt migration.
+  * Conducted linear stability analysis with spectral method to understand the physical control on the problem
+
 * M. Huang, Y. Li & L. Zhao (2022). **Effects of Heterogeneous Thermal, Compositional and Rheological Properties on the Long-Term Evolution of Deep Mantle Thermochemical Piles**, Science China: Earth Science, 1-12. DOI:[https://doi.org/10.1007/s11430-021-9950-7]( https://doi.org/10.1007/s11430-021-9950-7)\\
 Contribution:
   * Performed a series of numerical experiments over a range of buoyancy ratios, compositional viscosity ratios, and internal heating rates and analysed their effects to thermochemical piles
